@@ -1,0 +1,41 @@
+h1 {
+    color: sienna;
+    text-align: center;
+    margin: 50px 0 50px 50px;
+    font-size: 58px;
+    font-family: 'Bonheur Royale', cursive;
+}
+h2 {
+    color: sienna;
+    font-family: 'Source Code Pro', monospace;
+}
+a {
+    color: DeepSkyBlue;
+}
+.hlavnifoto {
+    width: 350px;
+    height: 300px;
+    float: left;
+    padding: 30px 60px 30px 30px;
+}
+section {
+    border: 5px solid Tan;
+    border-radius: 20px;
+    padding: 0;
+    background-color: beige;
+    margin: 0;
+    line-height: 30px
+
+}
+body {
+    margin: 30px;
+    padding: 0;
+}
+.nadpisText,
+.Text{
+    clear: left;
+    padding: 0 30px;
+}
+.kontakt{
+    padding:50px 50px 0px 50px;
+}
